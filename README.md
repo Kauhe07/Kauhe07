@@ -27,6 +27,22 @@ Apaixonado por tecnologia, programação e desenvolvimento de soluções inovado
 <h2>🛠️ Tecnologias em Aprendizado</h2>
 
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </p>
----
+
+ <h2>⭐ Competências</h2>
+
+<ul>
+  <li>✔️ Autonomia no aprendizado e execução de tarefas</li>
+  <li>✔️ Organização e gestão de tempo</li>
+  <li>✔️ Trabalho em equipe e comunicação</li>
+  <li>✔️ Resolução de problemas lógicos</li>
+  <li>✔️ Facilidade de aprendizado de novas tecnologias</li>
+  <li>✔️ Desenvolvimento de projetos acadêmicos</li>
+</ul>
+<h2>🎯 Objetivo</h2>
+
+<p>
+Busco evoluir como desenvolvedor de sistemas, adquirindo experiência prática em programação e tecnologias, com foco em me tornar um profissional qualificado na área de desenvolvimento de software. Tenho como objetivo conquistar um estágio, participar de projetos reais e continuar aprimorando minhas habilidades técnicas e lógicas.
+</p>
+
 
 
