@@ -1,7 +1,7 @@
 ```html
 <div align="center">
 
-<h1>👋 Olá, eu sou Kauhe07 </h1>
+<h1>👋 Olá, eu sou [Kauhe07]</h1>
 
 <h3>🎓 Estudante Técnico em Desenvolvimento de Sistemas | SESI-SENAI Cruzeiro/Lorena</h3>
 
@@ -105,3 +105,4 @@ https://github.com/seu-usuario
 
 </div>
 ```
+
