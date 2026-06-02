@@ -26,8 +26,9 @@ Apaixonado por tecnologia, programação e desenvolvimento de soluções inovado
 
 <h2>🛠️ Tecnologias em Aprendizado</h2>
 
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </p>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,linux,arduino,windows" />
+</p>
  <h2>⭐ Competências</h2>
 
 <ul>
