@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1>👋 Olá, eu sou Kauhe07</h1>
+<h1>👋 Olá, eu sou Kauhe</h1>
 
 <h3>🎓 Estudante de Desenvolvimento de Sistemas | SESI-SENAI Cruzeiro/Lorena</h3>
 
@@ -45,5 +45,4 @@ Apaixonado por tecnologia, programação e desenvolvimento de soluções inovado
 Busco evoluir como desenvolvedor de sistemas, adquirindo experiência prática em programação e tecnologias, com foco em me tornar um profissional qualificado na área de desenvolvimento de software. Tenho como objetivo conquistar um estágio, participar de projetos reais e continuar aprimorando minhas habilidades técnicas e lógicas.
 </p>
 
-
-
+<p>Contato: <a href="mailto:seunome@email.com">kaues3795@gmail.com</a></p>
